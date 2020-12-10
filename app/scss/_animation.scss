@@ -1,0 +1,15 @@
+.tab--active{  
+  border-radius: 3px;
+  font-weight: 700;
+}
+.tab{
+  display: inline-block;    
+}
+.tabs-content{
+  display: none;
+  width: 100%;
+  margin-top: 25px;
+  }
+.tabs-content--active{
+  display: block;  
+}
